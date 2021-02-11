@@ -66,7 +66,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Hands-On Time Series Analysis with R [[Packt]](https://www.packtpub.com/product/hands-on-time-series-analysis-with-r/9781788629157) [[Amazon]](https://www.amazon.com/dp/1788629159)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Greg Rafferty** is a data scientist in San Francisco, California. With over a decade of experience, he has worked with many of the top firms in tech, including Google, Facebook, and IBM. Greg has been an instructor in business analytics on Coursera and has led face-to-face workshops with industry professionals in data science and analytics. With both an MBA and a degree in engineering, he is able to work across the spectrum of data science and communicate with both technical experts and non-technical consumers of data alike.
 
 
