@@ -38,7 +38,6 @@ future = model.make_future_dataframe(periods=365)
 forecast = model.predict(future)
 fig = model.plot(forecast)
 plt.show()
-
 ```
 
 **Following is what you need for this book:**
